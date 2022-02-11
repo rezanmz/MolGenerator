@@ -1,0 +1,10 @@
+# Environment
+jupyterlab
+
+# Pytorch Geometric
+-f https://data.pyg.org/whl/torch-1.10.0+cu113.html
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+torch-geometric
