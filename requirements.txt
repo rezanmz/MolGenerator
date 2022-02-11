@@ -8,3 +8,6 @@ torch-sparse
 torch-cluster
 torch-spline-conv
 torch-geometric
+
+# Other stuff
+matplotlib
